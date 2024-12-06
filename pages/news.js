@@ -1,9 +1,9 @@
 import React from 'react'
 
-const newsPage = () => {
+const NewsPage = () => {
   return (
     <div>newsPage</div>
   )
 }
 
-export default newsPage
+export default NewsPage
